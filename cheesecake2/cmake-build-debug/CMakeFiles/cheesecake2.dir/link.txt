@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/cheesecake2.dir/main.cpp.o CMakeFiles/cheesecake2.dir/linklist.cpp.o  -o cheesecake2.exe -Wl,--out-implib,libcheesecake2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

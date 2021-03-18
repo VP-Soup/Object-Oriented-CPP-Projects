@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Date_Class.dir/main.cpp.o CMakeFiles/Date_Class.dir/date.cpp.o  -o Date_Class.exe -Wl,--out-implib,libDate_Class.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

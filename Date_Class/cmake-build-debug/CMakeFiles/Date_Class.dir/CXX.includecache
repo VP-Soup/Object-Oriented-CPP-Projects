@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Date_Class/date.cpp
+date.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Date_Class/date.h
+string
+-
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Date_Class/date.h
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Date_Class/main.cpp
+iostream
+-
+iomanip
+-
+date.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Date_Class/date.h
+string
+-
+
