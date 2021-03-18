@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/circle.cpp
+circle.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/circle.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/circle.h
+shape.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/shape.h
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/rectangle.cpp
+rectangle.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/rectangle.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/rectangle.h
+shape.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/shape.h
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/shape.h
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/square.cpp
+iostream
+-
+square.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/square.h
+iomanip
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/square.h
+shape.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/shape.h
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/triangle.cpp
+triangle.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/triangle.h
+iostream
+-
+cmath
+-
+iomanip
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/triangle.h
+shape.h
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Shape_classes/shape.h
+

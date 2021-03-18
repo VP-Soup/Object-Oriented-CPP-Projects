@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Lottery_Numbers.dir/main.cpp.o  -o Lottery_Numbers.exe -Wl,--out-implib,libLottery_Numbers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
