@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/stack_template/main.cpp
+iostream
+-
+stack.cpp
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/stack_template/stack.cpp
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/stack_template/stack.cpp
+iostream
+-
+vector
+-
+
