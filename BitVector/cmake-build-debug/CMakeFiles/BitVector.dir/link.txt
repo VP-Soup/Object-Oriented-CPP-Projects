@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/BitVector.dir/main.cpp.o CMakeFiles/BitVector.dir/bitvector.cpp.o  -o BitVector.exe -Wl,--out-implib,libBitVector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

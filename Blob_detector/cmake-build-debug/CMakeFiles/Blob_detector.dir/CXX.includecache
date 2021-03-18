@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/blob.cpp
+iostream
+-
+fstream
+-
+vector
+-
+vector
+-
+iostream
+-
+
+/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/test.cpp
+vector
+-
+iostream
+-
+

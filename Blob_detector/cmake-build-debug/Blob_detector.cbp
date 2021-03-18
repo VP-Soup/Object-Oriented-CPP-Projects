@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Blob_detector"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Blob_detector">
+				<Option output="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug/Blob_detector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Blob_detector"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Blob_detector/fast">
+				<Option output="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug/Blob_detector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 Blob_detector/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/chees/Desktop/School\ Work/COP3330/CLION\ Programs/Blob_detector/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/blob.cpp">
+			<Option target="Blob_detector"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/test.cpp">
+			<Option target="Blob_detector"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chees/Desktop/School Work/COP3330/CLION Programs/Blob_detector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
